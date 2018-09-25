@@ -1,11 +1,16 @@
 _repo: Dictionnaire-d-argot-fin-de-siecle_57656
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57656-h/images/cover.jpg
 creator:
   author:
     agent_name: Virmaître, Charles
     gutenberg_agent_id: '49530'
     url: http://www.gutenberg.org/2009/agents/49530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57656#Dictionnaire-d-argot-fin-de-siecle
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Langues
