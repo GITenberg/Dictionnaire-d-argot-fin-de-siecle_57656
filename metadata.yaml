@@ -1,0 +1,23 @@
+_repo: Dictionnaire-d-argot-fin-de-siecle_57656
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Virmaître, Charles
+    gutenberg_agent_id: '49530'
+    url: http://www.gutenberg.org/2009/agents/49530
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Langues
+gutenberg_issued: '2018-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57656'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Dictionnaire d'argot fin-de-siècle
+url: http://www.gutenberg.org/ebooks/57656
